@@ -2230,6 +2230,7 @@
 			{
 				"class select override vcd"		"class_select_revrifle"
 				"crit_dmg_falloff"			"1"
+				"class select override vcd"				"taunt01"
 			}
 		}
 		"42"
